@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2024.07.09
+## Updated on 2024.07.10
 
 ## Autonomous_Driving
 
@@ -11,7 +11,7 @@ layout: default
 |**2024-07-08**|**4D Contrastive Superflows are Dense 3D Representation Learners**|Xiang Xu et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06190v1-b31b1b.svg)](http://arxiv.org/abs/2407.06190v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/xiangxu-0103/superflow)**|
 |**2024-07-08**|**PerlDiff: Controllable Street View Synthesis Using Perspective-Layout Diffusion Models**|Jinhua Zhang et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06109v1-b31b1b.svg)](http://arxiv.org/abs/2407.06109v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/labshuhanggu/perldiff)**|
 |**2024-07-08**|**Physics-Informed Machine Learning Towards A Real-Time Spacecraft Thermal Simulator**|Manaswin Oddiraju et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06099v1-b31b1b.svg)](http://arxiv.org/abs/2407.06099v1)|null|
-|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06016v1-b31b1b.svg)](http://arxiv.org/abs/2407.06016v1)|null|
+|**2024-07-08**|**RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation**|Sarah Elmahdy et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.06016v1-b31b1b.svg)](http://arxiv.org/abs/2407.06016v1)|**[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SarahELMAHDY03/RHRSegNet)**|
 |**2024-07-08**|**Enhancing Vision-Language Models with Scene Graphs for Traffic Accident Understanding**|Aaron Lohner et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05910v1-b31b1b.svg)](http://arxiv.org/abs/2407.05910v1)|null|
 |**2024-07-08**|**Cross-domain Few-shot In-context Learning for Enhancing Traffic Sign Recognition**|Yaozong Gan et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05814v1-b31b1b.svg)](http://arxiv.org/abs/2407.05814v1)|null|
 |**2024-07-08**|**Boosting 3D Object Detection with Semantic-Aware Multi-Branch Framework**|Hao Jing et.al.|[![arxiv](https://img.shields.io/badge/arXiv-2407.05769v1-b31b1b.svg)](http://arxiv.org/abs/2407.05769v1)|null|
