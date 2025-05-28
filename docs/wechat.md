@@ -1,7 +1,8 @@
-> Updated on 2025.05.27
+> Updated on 2025.05.28
 
 ## Autonomous_Driving
 
+- 2025-05-26, **Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects**, Yixin Cui et.al., Paper: [http://arxiv.org/abs/2505.20223v1](http://arxiv.org/abs/2505.20223v1)
 - 2025-05-26, **ReasonPlan: Unified Scene Prediction and Decision Reasoning for Closed-loop Autonomous Driving**, Xueyi Liu et.al., Paper: [http://arxiv.org/abs/2505.20024v1](http://arxiv.org/abs/2505.20024v1)
 - 2025-05-26, **Uncertainty-Aware Safety-Critical Decision and Control for Autonomous Vehicles at Unsignalized Intersections**, Ran Yu et.al., Paper: [http://arxiv.org/abs/2505.19939v1](http://arxiv.org/abs/2505.19939v1)
 - 2025-05-26, **Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation**, Nagito Saito et.al., Paper: [http://arxiv.org/abs/2505.19846v1](http://arxiv.org/abs/2505.19846v1)
@@ -9,7 +10,7 @@
 - 2025-05-26, **Learning to Reason without External Rewards**, Xuandong Zhao et.al., Paper: [http://arxiv.org/abs/2505.19590v1](http://arxiv.org/abs/2505.19590v1)
 - 2025-05-26, **LF-GNSS: Towards More Robust Satellite Positioning with a Hard Example Mining Enhanced Learning-Filtering Deep Fusion Framework**, Jianan Lou et.al., Paper: [http://arxiv.org/abs/2505.19560v1](http://arxiv.org/abs/2505.19560v1)
 - 2025-05-26, **DiffE2E: Rethinking End-to-End Driving with a Hybrid Action Diffusion and Supervised Policy**, Rui Zhao et.al., Paper: [http://arxiv.org/abs/2505.19516v1](http://arxiv.org/abs/2505.19516v1)
-- 2025-05-26, **DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**, Anqing Jiang et.al., Paper: [http://arxiv.org/abs/2505.19381v1](http://arxiv.org/abs/2505.19381v1)
+- 2025-05-27, **DiffVLA: Vision-Language Guided Diffusion Planning for Autonomous Driving**, Anqing Jiang et.al., Paper: [http://arxiv.org/abs/2505.19381v2](http://arxiv.org/abs/2505.19381v2)
 - 2025-05-26, **Neural nanophotonic object detector with ultra-wide field-of-view**, Ji Chen et.al., Paper: [http://arxiv.org/abs/2505.19379v1](http://arxiv.org/abs/2505.19379v1)
 - 2025-05-25, **DriveX: Omni Scene Modeling for Learning Generalizable World Knowledge in Autonomous Driving**, Chen Shi et.al., Paper: [http://arxiv.org/abs/2505.19239v1](http://arxiv.org/abs/2505.19239v1)
 - 2025-05-23, **Clip4Retrofit: Enabling Real-Time Image Labeling on Edge Devices via Cross-Architecture CLIP Distillation**, Li Zhong et.al., Paper: [http://arxiv.org/abs/2505.18039v1](http://arxiv.org/abs/2505.18039v1)
